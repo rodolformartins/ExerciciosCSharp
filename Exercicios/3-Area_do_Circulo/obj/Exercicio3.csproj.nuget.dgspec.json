@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rodol\\OneDrive\\Documentos\\ExerciciosCSharp\\Exercicios\\Exercicio3\\Exercicio3.csproj": {}
+    "C:\\Users\\rodol\\OneDrive\\Documentos\\ExerciciosCSharp\\Exercicios\\3-Area_do_Circulo\\Exercicio3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rodol\\OneDrive\\Documentos\\ExerciciosCSharp\\Exercicios\\Exercicio3\\Exercicio3.csproj": {
+    "C:\\Users\\rodol\\OneDrive\\Documentos\\ExerciciosCSharp\\Exercicios\\3-Area_do_Circulo\\Exercicio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rodol\\OneDrive\\Documentos\\ExerciciosCSharp\\Exercicios\\Exercicio3\\Exercicio3.csproj",
+        "projectUniqueName": "C:\\Users\\rodol\\OneDrive\\Documentos\\ExerciciosCSharp\\Exercicios\\3-Area_do_Circulo\\Exercicio3.csproj",
         "projectName": "Exercicio3",
-        "projectPath": "C:\\Users\\rodol\\OneDrive\\Documentos\\ExerciciosCSharp\\Exercicios\\Exercicio3\\Exercicio3.csproj",
+        "projectPath": "C:\\Users\\rodol\\OneDrive\\Documentos\\ExerciciosCSharp\\Exercicios\\3-Area_do_Circulo\\Exercicio3.csproj",
         "packagesPath": "C:\\Users\\rodol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rodol\\OneDrive\\Documentos\\ExerciciosCSharp\\Exercicios\\Exercicio3\\obj\\",
+        "outputPath": "C:\\Users\\rodol\\OneDrive\\Documentos\\ExerciciosCSharp\\Exercicios\\3-Area_do_Circulo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rodol\\AppData\\Roaming\\NuGet\\NuGet.Config",

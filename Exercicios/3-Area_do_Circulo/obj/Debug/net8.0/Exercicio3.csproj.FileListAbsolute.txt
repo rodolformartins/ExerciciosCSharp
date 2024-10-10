@@ -1,0 +1,15 @@
+C:\Users\rodol\OneDrive\Documentos\ExerciciosCSharp\Exercicios\3-Area_do_Circulo\bin\Debug\net8.0\Exercicio3.exe
+C:\Users\rodol\OneDrive\Documentos\ExerciciosCSharp\Exercicios\3-Area_do_Circulo\bin\Debug\net8.0\Exercicio3.deps.json
+C:\Users\rodol\OneDrive\Documentos\ExerciciosCSharp\Exercicios\3-Area_do_Circulo\bin\Debug\net8.0\Exercicio3.runtimeconfig.json
+C:\Users\rodol\OneDrive\Documentos\ExerciciosCSharp\Exercicios\3-Area_do_Circulo\bin\Debug\net8.0\Exercicio3.dll
+C:\Users\rodol\OneDrive\Documentos\ExerciciosCSharp\Exercicios\3-Area_do_Circulo\bin\Debug\net8.0\Exercicio3.pdb
+C:\Users\rodol\OneDrive\Documentos\ExerciciosCSharp\Exercicios\3-Area_do_Circulo\obj\Debug\net8.0\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodol\OneDrive\Documentos\ExerciciosCSharp\Exercicios\3-Area_do_Circulo\obj\Debug\net8.0\Exercicio3.AssemblyInfoInputs.cache
+C:\Users\rodol\OneDrive\Documentos\ExerciciosCSharp\Exercicios\3-Area_do_Circulo\obj\Debug\net8.0\Exercicio3.AssemblyInfo.cs
+C:\Users\rodol\OneDrive\Documentos\ExerciciosCSharp\Exercicios\3-Area_do_Circulo\obj\Debug\net8.0\Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\rodol\OneDrive\Documentos\ExerciciosCSharp\Exercicios\3-Area_do_Circulo\obj\Debug\net8.0\Exercicio3.sourcelink.json
+C:\Users\rodol\OneDrive\Documentos\ExerciciosCSharp\Exercicios\3-Area_do_Circulo\obj\Debug\net8.0\Exercicio3.dll
+C:\Users\rodol\OneDrive\Documentos\ExerciciosCSharp\Exercicios\3-Area_do_Circulo\obj\Debug\net8.0\refint\Exercicio3.dll
+C:\Users\rodol\OneDrive\Documentos\ExerciciosCSharp\Exercicios\3-Area_do_Circulo\obj\Debug\net8.0\Exercicio3.pdb
+C:\Users\rodol\OneDrive\Documentos\ExerciciosCSharp\Exercicios\3-Area_do_Circulo\obj\Debug\net8.0\Exercicio3.genruntimeconfig.cache
+C:\Users\rodol\OneDrive\Documentos\ExerciciosCSharp\Exercicios\3-Area_do_Circulo\obj\Debug\net8.0\ref\Exercicio3.dll
